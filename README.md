@@ -19,6 +19,16 @@ We implemented QUAC-TRNG using the open-source FPGA-based DRAM characterization 
 
 Please check out the prerequisites and installation instructions in the [DRAM Bender](https://github.com/CMU-SAFARI/DRAM-Bender) repository.
 
+## Talks
+
+To learn more about QUAC-TRNG, please refer to the talks and slides below:
+
+[Long Talk: SAFARI Live Seminar](https://www.youtube.com/watch?v=snvF3g3GfkI&list=PL5Q2soXY2Zi_tOTAYm--dYByNPL7JhwR9&index=6)  
+SAFARI Live Seminar Slides ([pptx](https://people.inf.ethz.ch/omutlu/pub/QUAC-TRNG-DRAM_isca21-talk.pptx)) ([pdf](https://people.inf.ethz.ch/omutlu/pub/QUAC-TRNG-DRAM_isca21-talk.pdf))
+
+[Short Talk: Conference Talk Video](https://youtu.be/J-S5ooZ_GYY)  
+Conference Talk Slides ([pptx](https://people.inf.ethz.ch/omutlu/pub/QUAC-TRNG-DRAM_isca21-talk.pptx)) ([pdf](https://people.inf.ethz.ch/omutlu/pub/QUAC-TRNG-DRAM_isca21-talk.pptx))
+
 ### Installation Instructions
 
 Assuming you have downloaded the DRAM Bender repository to `DBPATH`, copy everything provided in this directory to `DBPATH/sources/apps/QUAC-TRNG`. Then you can use the instructions below to reproduce QUAC-TRNG's results.
