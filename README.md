@@ -31,7 +31,7 @@ SAFARI Live Seminar Slides ([pptx](https://people.inf.ethz.ch/omutlu/pub/QUAC-TR
 [Short Talk: Conference Talk Video](https://youtu.be/J-S5ooZ_GYY)  
 Conference Talk Slides ([pptx](https://people.inf.ethz.ch/omutlu/pub/QUAC-TRNG-DRAM_isca21-talk.pptx)) ([pdf](https://people.inf.ethz.ch/omutlu/pub/QUAC-TRNG-DRAM_isca21-talk.pptx))
 
-### Installation Instructions
+## Installation Instructions
 
 Assuming you have downloaded the DRAM Bender repository to `DBPATH`, copy everything provided in this directory to `DBPATH/sources/apps/QUAC-TRNG`. Then you can use the instructions below to reproduce QUAC-TRNG's results.
 
