@@ -6,6 +6,8 @@ Please use the following citation to cite QUAC-TRNG if the repository is useful 
 
 > Ataberk Olgun, Minesh Patel, A. Giray Yaglikci, Haocong Luo, Jeremie S. Kim, F. Nisa Bostanci, Nandita Vijaykumar, Oguz Ergin, and Onur Mutlu, "QUAC-TRNG: High-Throughput True Random Number Generation Using Quadruple Row Activation in Commodity DRAM Chips", ISCA'21.
 
+[Link to QUAC-TRNG's extended version on arXiv](https://arxiv.org/pdf/2105.08955)
+
 ```
 @inproceedings{olgun2022quactrng,
       title={QUAC-TRNG: High-Throughput True Random Number Generation Using Quadruple Row Activation in Commodity DRAM Chips}, 
